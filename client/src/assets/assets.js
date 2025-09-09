@@ -21,6 +21,7 @@ import pic3 from './pic3.png'
 import pic4 from './pic4.png'
 import img1 from './img1.jpg'
 import img2 from './img2.jpg'
+import react from './react.svg'
 
 const assets = {
     avatar_icon,
@@ -35,7 +36,18 @@ const assets = {
     arrow_icon,
     code,
     bgImage,
-    profile_martin
+    profile_richard,
+    profile_alison,
+    profile_enrique,
+    profile_marco,
+    profile_martin,
+    pic1,
+    pic2,
+    pic3,
+    pic4,
+    img1,
+    img2,
+    react
 }
 
 export default assets;
